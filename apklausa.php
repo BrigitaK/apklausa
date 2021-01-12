@@ -47,7 +47,7 @@ else {
     margin-top: 40px;
     display: inline-block;
     width: 550px;
-    margin-left: calc(50% - 275px);
+    margin-left: calc(50% - 300px);
     padding: 40px 40px 80px;
     border: 1px solid #9bc5f9;
     border-radius: 10px;
