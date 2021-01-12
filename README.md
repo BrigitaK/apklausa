@@ -1,4 +1,4 @@
-# apklausa
+# Apklausa
 
 This project is for educational porpuses only.
 
